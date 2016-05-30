@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-30T12:49:42.949Z'
+datePublished: '2016-05-30T13:28:32.850Z'
 isBasedOnUrl: 'https://vimeo.com/131450402'
 keywords: []
 related: []
@@ -7,7 +7,7 @@ author:
   - name: ''
     url: 'http://vimeo.com/hannahzwennes'
     avatar: {}
-dateModified: '2016-05-30T12:49:35.608Z'
+dateModified: '2016-05-30T13:28:32.296Z'
 title: Narcissus
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/131450402'
@@ -42,8 +42,8 @@ publisher:
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 description: a young male model discovers the dangers of loving himself too much. directed by OSKAR KIRK HANSEN
-starred: false
 sourcePath: _posts/2016-05-30-narcissus.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
