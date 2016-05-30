@@ -1,7 +1,7 @@
 name: osky
 favicon: null
-layout_spectrum: 0.9429169446229935
-typography_spectrum: 0.9822363583371043
+layout_spectrum: 0.09173438185825944
+typography_spectrum: 0.8167123831808567
 title: 'Film '
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-  brandStrength: 0.7493005469441414
-  lightness: 0.11488865106366575
-  saturation: 0.5542603288777173
-  rhythmicContrast: 0.3439916104543954
+  brandStrength: 0.33223111485131085
+  lightness: 0.3246410202700645
+  saturation: 0.18360333144664764
+  rhythmicContrast: 0.2846269647125155
 purpose: []
