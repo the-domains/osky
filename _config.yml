@@ -1,0 +1,14 @@
+layout_spectrum: 0.45679748384281993
+typography_spectrum: 0.0698785746935755
+color:
+  brandStrength: 0.8816983718425035
+  lightness: 0.7700071618892252
+  saturation: 0.41958714788779616
+  rhythmicContrast: 0.35069474554620683
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: osky
