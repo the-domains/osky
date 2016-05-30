@@ -1,7 +1,7 @@
 name: osky
 favicon: null
-layout_spectrum: 0.2786
-typography_spectrum: 0.0698785746935755
+layout_spectrum: 0.9429169446229935
+typography_spectrum: 0.9822363583371043
 title: 'Film '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.6875
-  lightness: 0.5625
-  saturation: 0.5625
-  rhythmicContrast: 0.35069474554620683
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.7493005469441414
+  lightness: 0.11488865106366575
+  saturation: 0.5542603288777173
+  rhythmicContrast: 0.3439916104543954
 purpose: []
