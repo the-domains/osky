@@ -2,7 +2,7 @@ name: osky
 favicon: null
 layout_spectrum: 0.37353
 typography_spectrum: 0.3726843118201941
-title: "\"Reality is a dirty word to me - there's too much of it about\""
+title: '"Reality is a dirty word to me - there''s too much of it about"'
 cta:
   domain: null
   bucket: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#450003'
-    - '#5C0002'
-    - '#94090D'
-    - '#D40D12'
-    - '#FF1D23'
+    - '#110513'
+    - '#c273cc'
+    - '#593866'
+    - '#905cab'
+    - '#f07ef3'
   brandStrength: 0.61564323422499
   lightness: 0.6875
   saturation: 0.3125
