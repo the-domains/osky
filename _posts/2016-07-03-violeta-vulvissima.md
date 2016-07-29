@@ -42,10 +42,11 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/173086444'
 title: VIOLETA - VULVISSIMA
-datePublished: '2016-07-03T20:00:04.114Z'
-dateModified: '2016-07-03T20:00:02.458Z'
+datePublished: '2016-07-29T17:40:58.297Z'
+dateModified: '2016-07-29T17:40:57.373Z'
 sourcePath: _posts/2016-07-03-violeta-vulvissima.md
-starred: true
+via: {}
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
