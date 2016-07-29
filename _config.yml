@@ -23,7 +23,7 @@ color:
     - '#905cab'
     - '#f07ef3'
   brandStrength: 1
-  lightness: 0.5
+  lightness: 0
   saturation: 0
   rhythmicContrast: 1
 purpose: []
