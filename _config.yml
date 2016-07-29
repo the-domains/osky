@@ -1,21 +1,4 @@
-name: osky
-favicon: null
-layout_spectrum: 0.24489
-typography_spectrum: 0.60472
-title: '"Reality is a dirty word to me - there''s too much of it about"'
-description: Official Website of Film Director Oskar Kirk Hansen
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.3726843118201941
 color:
   brandColors:
     - '#000000'
@@ -24,7 +7,24 @@ color:
     - '#ae0a37'
     - '#1b006e'
   brandStrength: 1
-  lightness: 0
-  saturation: 1
+  lightness: 0.5
+  saturation: 0
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.37353
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: osky
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: '"Reality is a dirty word to me - there''s too much of it about"'
+description: Official Website of Film Director Oskar Kirk Hansen
 purpose: []
