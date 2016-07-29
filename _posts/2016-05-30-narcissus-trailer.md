@@ -1,13 +1,14 @@
 ---
-datePublished: '2016-05-30T12:32:43.204Z'
+datePublished: '2016-07-29T17:43:47.435Z'
+sourcePath: _posts/2016-05-30-narcissus-trailer.md
 isBasedOnUrl: 'https://vimeo.com/129308058'
 keywords: []
 related: []
 author:
-  - name: Skinny Snail Studios
+  - name: oskar kirk hansen
     url: 'http://vimeo.com/user6876242'
     avatar: {}
-dateModified: '2016-05-30T12:32:23.496Z'
+dateModified: '2016-07-29T17:43:46.796Z'
 title: Narcissus Trailer
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/129308058'
@@ -41,9 +42,11 @@ publisher:
   name: Vimeo
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
-description: trailer for the short film Narcissus directed by Oskar Kirk Hansen as a final project at the European Film College
+description: >-
+  trailer for the short film Narcissus directed by Oskar Kirk Hansen as a final
+  project at the European Film College
+via: {}
 starred: false
-sourcePath: _posts/2016-05-30-narcissus-trailer.md
 inFeed: true
 hasPage: false
 inNav: false
