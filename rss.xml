@@ -4,8 +4,15 @@
         <description><![CDATA["Reality is a dirty word to me - there's too much of it about"]]></description>
         <link>https://thegrid.ai/okh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jul 2016 19:52:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 15:18:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/okh/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VIOLETA - PSYCHO]]></title>
+            <description><![CDATA[<article><h1>VIOLETA - PSYCHO</h1><p>official music video for PSYCHO by VIOLETA directed by OSKAR KIRK HANSEN Walking down the street, Another psycho of the night. Hearing voices in my head, Telling me to follow my heart. I looked up to the sky, The moon was divine.</p></article>]]></description>
+            <link>https://vimeo.com/176852706</link>
+            <guid isPermaLink="false">ec659599-c541-4872-9109-8382b8b5ff65</guid>
+            <pubDate>Tue, 02 Aug 2016 15:17:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[VIOLETA - PSYCHO]]></title>
             <description><![CDATA[<article><h1>VIOLETA - PSYCHO</h1><p>official music video for PSYCHO by VIOLETA directed by OSKAR KIRK HANSEN Walking down the street, Another psycho of the night. Hearing voices in my head, Telling me to follow my heart. I looked up to the sky, The moon was divine.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/168800641</link>
             <guid isPermaLink="false">337b6fda-e985-4caf-88e6-6d9cb84ce020</guid>
             <pubDate>Fri, 29 Jul 2016 17:41:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed20243a2f87605d8abd0ec8efdbe5855f7d4450.jpg" alt="derek jarman">]]></description>
-            <link>https://thegrid.ai/okh/derek-jarman/index.html</link>
-            <guid isPermaLink="false">aaad4926-a266-4726-b1d8-219eb055d2c7</guid>
-            <pubDate>Mon, 30 May 2016 12:35:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
