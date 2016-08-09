@@ -4,8 +4,15 @@
         <description><![CDATA["Reality is a dirty word to me - there's too much of it about"]]></description>
         <link>https://thegrid.ai/okh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 15:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 12:03:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/okh/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Black Moon]]></title>
+            <description><![CDATA[<article><h1>Black Moon</h1><p>Musical theme composed by Diogo Viol Flores for the upcoming short film ''Jens K. and His Experience With Beauty'', directed by Oskar Kirk Hansen</p></article>]]></description>
+            <link>https://vimeo.com/178171092</link>
+            <guid isPermaLink="false">66d9b9bb-8323-493d-9134-d316ec3d75d3</guid>
+            <pubDate>Tue, 09 Aug 2016 12:03:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[VIOLETA - PSYCHO]]></title>
             <description><![CDATA[<article><h1>VIOLETA - PSYCHO</h1><p>official music video for PSYCHO by VIOLETA directed by OSKAR KIRK HANSEN Walking down the street, Another psycho of the night. Hearing voices in my head, Telling me to follow my heart. I looked up to the sky, The moon was divine.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/131450402</link>
             <guid isPermaLink="false">3b971047-3750-4231-90f7-1b3015c2145b</guid>
             <pubDate>Fri, 29 Jul 2016 17:42:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TRAIN]]></title>
-            <description><![CDATA[<article><h1>TRAIN</h1><p>music video for TRAIN by VIOL directed by OSKAR KIRK HANSEN https://thegrid.ai/viol/ https://soundcloud.com/violmind https://thegrid.ai/osky/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8dd09bdcf282df8636d319a4805ed4280aa1e687.jpg"></article>]]></description>
-            <link>https://vimeo.com/168800641</link>
-            <guid isPermaLink="false">337b6fda-e985-4caf-88e6-6d9cb84ce020</guid>
-            <pubDate>Fri, 29 Jul 2016 17:41:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
